@@ -1,0 +1,234 @@
+---
+title: "Curriculum Vitae: Sanmari Vivier"
+author: Sanmari Vivier
+date: "`r Sys.Date()`"
+knit: pagedown::chrome_print
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+```{r echo=FALSE}
+#xaringan::inf_mr()
+```
+
+
+Aside
+================================================================================
+![Sanmari Vivier](/Users/susanroets/Dropbox/Personal/CV/sanmari_vivier_cv/pagedown-resume/sanmari_profile_pic.png){width=80%}
+
+**Contact Info** {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> sanmari.vivier@gmail.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/sanmari-vivier](https://www.linkedin.com/in/sanmari-vivier/)
+- <i class="fa fa-github"></i> [github.com/SanmariV](https://github.com/SanmariV)
+- <i class="fa fa-twitter"></i> [twitter.com/SanmariVivier](https://twitter.com/SanmariVivier)
+- <i class="fa fa-phone"></i> +27 82 568 8380
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in conducting market research to identify and monitor competitors, threats to the business, emerging industry trends, and opportunities to diversify product range.
+
+- Skilled in R, Python, Git, and SQL.
+
+References {#references}
+--------------------------------------------------------------------------------
+**Mr. Russell Schwulst:**
+
+<i class="fa fa-envelope"></i> russell.schwulst@festo.com
+
+<i class="fa fa-phone"></i> +27 11 971 5546
+
+**Mr. Bersan Lesch:**
+
+<i class="fa fa-envelope"></i> bersan.lesch@gmail.com
+
+<i class="fa fa-phone"></i> +27 71 112 6236
+
+
+Main
+================================================================================
+
+SANMARI VIVIER {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for an entry-level data science position
+
+Recent projects:
+
+-  [**Dashboard for psychologists**](https://sanmari.shinyapps.io/psychologist_info_2020/)
+-  [**Short-term insurance tweets dashboard**](https://sanmari.shinyapps.io/insurer_tweets/)
+-  [**Flower Classifier**](https://github.com/SanmariV/flower-classifier-project)
+-  [**Dog Classifier**](https://github.com/SanmariV/dog-classifier)
+-  [**TV Script Generator**](https://github.com/SanmariV/tv-script-generator)
+-  [**Using GANs to generate faces**](https://github.com/SanmariV/face-generator-project)
+-  [**Sentiment analysis using AWS SageMaker**](https://github.com/SanmariV/aws-sagemaker-project)
+ 
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Pretoria
+
+BA in Information Design
+
+Pretoria, South Africa
+
+2009
+
+Dissertation: An investigative study of the current bus wayfinding system in Tshwane
+
+### Tshwane University of Technology
+
+N.Dip in Mechatronics Engineering
+
+Pretoria, South Africa
+
+2013
+
+Project: Cost Comparison between Electric and Pneumatic actuators for the filtering beds on water treatment plants (Completed at Festo SA)
+
+### Institute and Faculty of Actuaries
+
+Fellowship Examinations:
+
+United Kingdom
+
+2018 - 2020
+
+::: concise
+- CT3/ CS1 (Actuarial Statistics)
+- CT7/ CB2 (Business Economics)
+- CT9/ CB3 (Business Management)
+:::
+
+
+Certificates {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Excel/VBA for Creative Problem Solving, Part 1
+
+Coursera
+
+South Africa
+
+2018
+
+[**View Credential**](https://coursera.org/share/7ae8edad8aaf4feaa66f758b83360a18)
+
+### Excel/VBA for Creative Problem Solving, Part 2
+
+Coursera
+
+South Africa
+
+2018
+
+[**View Credential**](https://coursera.org/share/e1c6783aec392b7863c5b7621543f7bc)
+
+### AI Programming with Python
+
+Udacity
+
+South Africa
+
+2019
+
+[**View Credential**](https://graduation.udacity.com/confirm/D23JPCAG)
+
+### Programming for Data Science with R
+
+Udacity
+
+South Africa
+
+2019
+
+[**View Credential**](https://graduation.udacity.com/confirm/UMKP7R4J)
+
+### Deep Learning
+
+Udacity
+
+South Africa
+
+2020
+
+[**View Credential**](aduation.udacity.com/confirm/PX2UDDKD)
+
+### Foundations of Data Science: K-Means clustering in Python
+
+Coursera
+
+South Africa
+
+2020
+
+[**View Credential**](https://coursera.org/share/3a6fae3d532d65b2d93dfb0de71bed31)
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Administration Assistant
+
+Dr. Susan Roets Psychologist
+
+Pretoria South Africa
+
+March 2019-2020
+
+::: concise
+- Implemented an online booking system via the website to enable patients to book appointments for themselves.
+- Migrated the current accounting system over to the Xero online platform.
+- Implemented different payment methods including PayPal and PayFast to minimize the amount of outstanding debt from patient invoices.
+- Redesigned the website and corporate identity of the practice.
+:::
+
+### Actuarial Assistant, Intern
+
+MMI Holdings (Momentum – Investo Division)
+
+Centurion, South Africa
+
+Jan - Feb 2019
+
+::: concise
+Assisted with building a model to verify commission paid on policies to brokers.
+:::
+
+### Owner/ Manager
+
+Smir Design (Pty) Ltd
+
+Pretoria, South Africa
+
+Oct 2014 - Dec 2019
+
+::: concise
+- Elevated a strong creative and entrepreneurial orientation to develop, establish, market and manage an interior design and manufacture business entity trading with national retail, as well as local and international clients.
+- Concluded skilled negotiations and secured supplier contracts with retail stores such as @Home, SHF and Seolo Africa.
+- Maintained a workshop with 2 full-time employees.
+- Featured on Top Billing lifestyle TV program.  [**View Insert**](https://youtu.be/SAGn5oF0BvI)
+- **Reason for leaving:** Restricted business and career growth as a result of the competitive impact of mass production of imported products on the market.
+:::
+
+### Engineering Intern
+
+Festo South Africa
+
+Kempton Park, South Africa
+
+July 2013 - June 2014
+
+::: concise
+- Implemented analytical and critical thinking while concluding business development research relating to new and existing product ranges utilised in industries such as mining and industrial automation.
+- Accurately researched and completed competitor analysis of specific product ranges and created insightful reports submitted to the Head of Business Development.
+:::
+
+
+
