@@ -56,10 +56,11 @@ Main
 SANMARI VIVIER {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for an entry-level data science position
+### Currently searching for an entry-level data analyst/ data science position
 
 Recent projects:
 
+-  [**Data visualization: Adolescent Pregnancies in Kenya**](https://sanmari.shinyapps.io/adolescent_pregnancies_vis/)
 -  [**Dashboard for psychologists**](https://sanmari.shinyapps.io/psychologist_info_2020/)
 -  [**Short-term insurance tweets dashboard**](https://sanmari.shinyapps.io/insurer_tweets/)
 -  [**Flower Classifier**](https://github.com/SanmariV/flower-classifier-project)
